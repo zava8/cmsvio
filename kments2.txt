@@ -277,3 +277,16 @@ o -> goबiनद goবiনদ goਬiਨਦ goબiનદ goବiନଦ goబiన�
 
 caਨaਡa ਲaਟiਨ ਲaਨguage<- 8aiueohcg -> ਪਨਜaਬ guਰuਮuਕhi ਬhaਸa
 zava8.github.io ztr8 8aiueohcg iनदiरa gaनदhi iनटeरनaटioनaल oपeन uनiवeरसiटय(igनou) नaटioनaल oपeन सchooल
+
+---------------
+80UD v: Lenovo ideapad 110-15ISK serial: 
+Chassis: type: 10 v: Lenovo ideapad 110-15ISK serial:
+Mobo: LENOVO model: Lenovo ideapad 1 v: No DPK serial:UEFI [Legacy]: LENOVO 
+v: 1TCN23WW(V2.04) date: 03/06/2017 
+Battery:   ID-1: BAT1 charge: 0 Wh condition: 6.7/31.7 Wh (21%) volts: 13.2/14.4 
+           model: LG PABAS0241231 serial: <filter> status: Unknown 
+CPU:       Topology: Dual Core model: Intel Core i3-6006U bits: 64 type: MT MCP arch: Skylake 
+           rev: 3 L2 cache: 3072 KiB 
+           flags: avx avx2 lm nx pae sse sse2 sse3 sse4_1 sse4_2 ssse3 vmx bogomips: 15999 
+           Speed: 1080 MHz min/max: 400/2000 MHz Core speeds (MHz): 1: 2000 2: 2000 3: 2000 
+           4: 2000 
